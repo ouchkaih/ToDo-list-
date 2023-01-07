@@ -1,0 +1,20 @@
+.date_posted {
+    font-size: 80%;
+    color: rgb(147, 147, 147);
+    margin-top: -5px !important;
+    margin-left: 43px !important;
+}
+
+.post {
+    margin-top: -19px;
+}
+
+.post_icons {
+    width: 19%;
+    opacity: 50%;
+}
+
+.post_text {
+    opacity: 70%;
+    font-weight: 600;
+}
